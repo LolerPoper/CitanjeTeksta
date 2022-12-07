@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\CitanjeTeksta\bin\Debug\CitanjeTeksta.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\CitanjeTeksta\bin\Debug\CitanjeTeksta.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\CitanjeTeksta\bin\Debug\CitanjeTeksta.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\CitanjeTeksta\obj\Debug\CitanjeTeksta.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\CitanjeTeksta\obj\Debug\CitanjeTeksta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\CitanjeTeksta\obj\Debug\CitanjeTeksta.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\CitanjeTeksta\obj\Debug\CitanjeTeksta.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\CitanjeTeksta\obj\Debug\CitanjeTeksta.pdb
